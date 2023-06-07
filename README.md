@@ -20,7 +20,7 @@ Nowadays, I am actively promoting the use of MLOps at sports betting company ⚾
 mainly using Jenkins, Docker, OpenShift, ArgoCD, MLFlow and Helm Charts while also developing models for predicting
 sports matches outcomes in Tensorflow and PyTorch.
 
-In my free time I enjoy climbing and hiking in the mountains ⛰️.
+In my free time I enjoy climbing and hiking in the mountains.
 
 For more information you can check out my [CV](http://josefondrej.com/Josef_Ondrej_CV.pdf)
 or [website](http://josefondrej.com/) or feel free to contact me.
