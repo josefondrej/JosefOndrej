@@ -3,7 +3,7 @@
 My name is Josef Ondrej and I enjoy building useful mathematical and machine learning models.
 
 I have a solid background in mathematics ➗, particularly in statistics and probability theory, from my studies at
-university. But I also certainly do not shy away from scraping data and digging into it and writing well tested ✅
+university. But I also certainly do not shy away from scraping data, digging into it and writing well tested ✅
 production code with CI/CD pipelines and monitoring 🖥 -- skills that I gained while developing and operating
 the [Watson Assistant Autolearn](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-autolearn) feature
 at IBM.
