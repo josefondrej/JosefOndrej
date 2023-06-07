@@ -16,7 +16,7 @@ but I have also worked a lot with Java and have some experience also with
 R, JavaScript, Groovy (for Jenkins plugins), C# and a few others.
 I can also manage some basic web development (React, HTML, CSS) if needed.
 
-Nowadays, I am actively promoting the use of MLOps at sports ⚾ betting company [Tipsport](https://www.tipsport.cz/)
+Nowadays, I am actively promoting the use of MLOps at sports betting company ⚾ [Tipsport](https://www.tipsport.cz/)
 mainly using Jenkins, Docker, OpenShift, ArgoCD, MLFlow and Helm Charts while also developing models for predicting
 sports matches outcomes in Tensorflow and PyTorch.
 
