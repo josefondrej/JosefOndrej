@@ -3,9 +3,10 @@
 My name is Josef Ondrej and I enjoy building useful mathematical and machine learning models.
 
 I have a solid background in mathematics ➗, particularly in statistics and probability theory, from my studies at
-the Charles University in Prague. But I also certainly do not shy away from scraping data, digging into it and writing
-well tested ✅ production code with CI/CD pipelines and monitoring 🖥 -- skills that I gained while developing and
-operating the [Watson Assistant Autolearn](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-autolearn)
+the Charles University in Prague. But besides solving math problems I also certainly do not shy away from scraping
+data, digging into it and writing well tested ✅ production code with CI/CD pipelines and monitoring 🖥 -- skills that I
+gained while developing and operating
+the [Watson Assistant Autolearn](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-autolearn)
 feature at IBM.
 
 My language of choice is Python 🐍 (in which I developed a few small libraries and projects
