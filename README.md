@@ -8,7 +8,7 @@ production code with CI/CD pipelines and monitoring 🖥 -- skills that I gained
 the [Watson Assistant Autolearn](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-autolearn) feature
 at IBM.
 
-My language of choice is Python 🐍 (in which I developed few small libraries and projects
+My language of choice is Python 🐍 (in which I developed a few small libraries and projects
 like [Snax](https://github.com/josefondrej/snax), [Transplants](https://github.com/josefondrej/transplants), [SVGecko](https://github.com/josefondrej/svgecko),
 [API-Watchdog](https://github.com/josefondrej/api-watchdog) and [GlucoScan](https://github.com/josefondrej/glucoscan))
 but I have also worked a lot with Java and have some experience also with
