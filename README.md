@@ -12,7 +12,7 @@ My language of choice is Python 🐍 (in which I developed a few small libraries
 like [Snax](https://github.com/josefondrej/snax), [Transplants](https://github.com/josefondrej/transplants), [SVGecko](https://github.com/josefondrej/svgecko),
 [API-Watchdog](https://github.com/josefondrej/api-watchdog) and [GlucoScan](https://github.com/josefondrej/glucoscan))
 but I have also worked a lot with Java and have some experience also with
-R, JavaScript, Groovy (for Jenkins plugins), C# and few others.
+R, JavaScript, Groovy (for Jenkins plugins), C# and a few others.
 I can also manage some basic web development (React, HTML, CSS) if needed.
 
 Nowadays, I am actively promoting the use of MLOps at sports ⚾ betting company [Tipsport](https://www.tipsport.cz/)
