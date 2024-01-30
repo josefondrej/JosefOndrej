@@ -9,6 +9,10 @@ gained while developing and operating
 the [Watson Assistant Autolearn](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-autolearn)
 feature at IBM.
 
+I also spent a couple of years promoting the use of MLOps at sports betting company
+⚾ [Tipsport](https://www.tipsport.cz/) mainly using Jenkins, Docker, OpenShift, ArgoCD, MLFlow and Helm Charts while
+also developing models for predicting sports matches outcomes in Tensorflow and PyTorch.
+
 My language of choice is Python 🐍 (in which I developed a few small libraries and projects
 like [Snax](https://github.com/josefondrej/snax), [Transplants](https://github.com/josefondrej/transplants), [SVGecko](https://github.com/josefondrej/svgecko),
 [API-Watchdog](https://github.com/josefondrej/api-watchdog) and [GlucoScan](https://github.com/josefondrej/glucoscan))
@@ -16,11 +20,7 @@ but I have also worked a lot with Java and have some experience also with
 R, JavaScript, Groovy (for Jenkins plugins), C# and a few others.
 I can also manage some basic web development (React, HTML, CSS) if needed.
 
-I also spent a couple of years promoting the use of MLOps at sports betting company
-⚾ [Tipsport](https://www.tipsport.cz/) mainly using Jenkins, Docker, OpenShift, ArgoCD, MLFlow and Helm Charts while
-also developing models for predicting sports matches outcomes in Tensorflow and PyTorch.
-
-In my free time I enjoy climbing and hiking in the mountains.
+In my free time I enjoy climbing and hiking in the mountains ⛰️.
 
 For more information you can check out my [CV](http://josefondrej.com/Josef_Ondrej_CV.pdf)
 or [website](http://josefondrej.com/) or feel free to contact me.
