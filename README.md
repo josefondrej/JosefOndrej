@@ -22,5 +22,5 @@ I can also manage some basic web development (React, HTML, CSS) if needed.
 
 In my free time I enjoy climbing and hiking in the mountains ⛰️.
 
-For more information you can check out my [CV](http://josefondrej.com/Josef_Ondrej_CV.pdf)
+For more information you can check out my [CV](https://josefondrej.com/Josef_Ondrej_CV_2024_02_01.pdf)
 or [website](http://josefondrej.com/) or feel free to contact me.
